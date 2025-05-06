@@ -82,11 +82,18 @@ The learned Word2Vec embeddings can be visualized using the [TensorFlow Projecto
 
 
 * Sentiment140 Dataset: [https://www.kaggle.com/datasets/kazanova/sentiment140](https://www.kaggle.com/datasets/kazanova/sentiment140)
-* Word2Vec: [Link to relevant paper/resource]
-* TF-IDF: [Link to relevant resource]
-* TensorFlow Projector: [https://projector.tensorflow.org/](https://projector.tensorflow.org/)
-* Gensim Library: [https://radimrehurek.com/gensim/](https://radimrehurek.com/gensim/)
-* Scikit-learn Library: [https://scikit-learn.org/](https://scikit-learn.org/)
-* NLTK Library: [https://www.nltk.org/](https://www.nltk.org/)
-* [Any other sources]
+
+](https://www.kaggle.com/datasets/kazanova/sentiment140
+https://en.wikipedia.org/wiki/Word_embedding
+https://aistudio.google.com/prompts/new_chat
+https://chatgpt.com/
+https://gemini.google.com/app?hl=tr
+https://www.ibm.com/think/topics/word-embeddings
+https://www.geeksforgeeks.org/word-embeddings-in-nlp/
+https://machinelearningmastery.com/what-are-word-embeddings/
+https://claude.ai/new
+https://stackoverflow.com/questions/68106023/tensorflow-2-5-0-and-gensim-4-0-1-compatibility-with-numpy
+https://stackoverflow.com/questions/46168600/gensim-error-importerror-no-module-named-gensim
+https://scikit-learn.org/stable/modules/generated/sklearn.feature_extraction.text.TfidfVectorizer.html
+)
 
