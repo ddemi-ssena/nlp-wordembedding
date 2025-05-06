@@ -83,7 +83,7 @@ The learned Word2Vec embeddings can be visualized using the [TensorFlow Projecto
 
 * Sentiment140 Dataset: [https://www.kaggle.com/datasets/kazanova/sentiment140](https://www.kaggle.com/datasets/kazanova/sentiment140)
 
-](https://www.kaggle.com/datasets/kazanova/sentiment140
+(https://www.kaggle.com/datasets/kazanova/sentiment140
 https://en.wikipedia.org/wiki/Word_embedding
 https://aistudio.google.com/prompts/new_chat
 https://chatgpt.com/
